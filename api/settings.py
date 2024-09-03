@@ -29,7 +29,7 @@ SECRET_KEY = config('PE_SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['prompt-eval.quick-poc.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['prompt-eval-be-1.onrender.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
